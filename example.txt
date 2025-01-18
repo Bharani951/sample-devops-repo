@@ -1,0 +1,11 @@
+Introduction to DevOps
+
+DevOps is a methodology that integrates software development (Dev) and IT operations (Ops) to streamline workflows and enhance software delivery. It promotes automation, continuous integration, and collaboration among teams.
+
+Key DevOps practices include:
+
+Automation of infrastructure, testing, and deployments
+CI/CD Pipelines to enable frequent code integration and deployment
+Monitoring & Logging for better system observability
+Security (DevSecOps) to integrate security in the development lifecycle
+Popular DevOps tools include Git, Jenkins, Docker, Kubernetes, and Prometheus. Implementing DevOps leads to faster releases, improved efficiency, and greater reliability.
