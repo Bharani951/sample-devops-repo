@@ -11,3 +11,6 @@ Monitoring & Feedback: Providing real-time insights for system improvements
 Security Integration: Embedding security practices throughout the development cycle
 With tools like GitHub, Jenkins, Docker, and Prometheus, DevOps teams can enhance agility and reliability. 
 Companies embracing DevOps experience higher productivity, reduced downtime, and superior software quality.
+
+
+changes made for the following example.txt file in clone repository...
